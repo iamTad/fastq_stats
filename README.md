@@ -21,3 +21,10 @@ In the future, this code might do more including:
 ```
 read_distro_calculator -f uncompressed_file.fq -o output_file.csv
 ```
+
+# How to build
+If you're new to rust and want to know how to build this, simply install rust, download these files and run
+```
+cargo build
+```
+in the directory containing these files.
